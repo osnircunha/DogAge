@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DogAge</string>
+    <string name="title_activity_main">DogAge - calculator</string>
+
+    <string name="action_settings">Settings</string>
+    
+    <string name="breed_label">Breed</string>
+    <string name="age_label">Age</string>
+    <string name="submit_label">Submit</string>
+
+    <string-array name="breed_array_label">
+        <item>Puppy</item>
+        <item>Extra Small (up to 15 lbs.)</item>
+        <item>Small (up to 25 lbs.)</item>
+        <item>Medium (up to 35 lbs.)</item>
+        <item>Large (up to 50 lbs.)</item>
+        <item>Extra Large (50+ lbs.)</item>
+    </string-array>
+    <string name="title_activity_result">Result</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
